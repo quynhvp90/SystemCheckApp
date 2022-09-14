@@ -9,9 +9,9 @@ using System.Text;
 
 namespace CheckApplications
 {
-    public partial class Service1 : ServiceBase
+    public partial class CheckApplications : ServiceBase
     {
-        public Service1()
+        public CheckApplications()
         {
             InitializeComponent();
         }
