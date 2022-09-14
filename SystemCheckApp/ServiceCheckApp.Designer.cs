@@ -1,7 +1,7 @@
 ﻿
 namespace SystemCheckApp
 {
-    partial class Service1
+    partial class ServiceCheckApp
     {
         /// <summary> 
         /// Required designer variable.
