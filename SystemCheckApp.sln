@@ -3,19 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemCheckApp", "SystemCheckApp\SystemCheckApp.csproj", "{0D3D1948-BF0A-411A-B8AC-6E25801628F3}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D3D1948-BF0A-411A-B8AC-6E25801628F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D3D1948-BF0A-411A-B8AC-6E25801628F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D3D1948-BF0A-411A-B8AC-6E25801628F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D3D1948-BF0A-411A-B8AC-6E25801628F3}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
